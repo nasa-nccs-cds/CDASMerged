@@ -1,0 +1,5 @@
+task_request { font-family: sans-serif; background: white; color: black }
+data { margin: 1em; color: red }
+dataset { text-align: right;margin-bottom: 2em }
+domain { line-height: 1.5; margin-left: 15% }
+operation { color: blue }
